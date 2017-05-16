@@ -1,3 +1,8 @@
+### Update 05-16 from Cuby-DS
+
+Below are the instructions for the assignment as provided by the Instructor.
+This is my submission.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
